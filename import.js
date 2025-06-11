@@ -1,5 +1,5 @@
 const fs = require('fs');
-const db = require('./database'); // Assure-toi d'avoir database.js dans le même dossier
+const db = require('./database'); 
 
 // Lecture et parsing du fichier JSON
 const data = JSON.parse(fs.readFileSync('./SuperHerosComplet.json', 'utf-8')).superheros;
