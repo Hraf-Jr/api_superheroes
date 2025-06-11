@@ -1,0 +1,17 @@
+{
+  "name": "api_superheros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "csv-stringify": "^6.5.2",
+    "express": "^5.1.0"
+  },
+  "description": ""
+}
