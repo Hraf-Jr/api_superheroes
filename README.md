@@ -29,13 +29,14 @@ api_superheros/
 
 ---
 
-# Installation
+### Installation
 
-bash
-npm install
-node import.js      # remplit la base avec les données JSON
-node index.js       # démarre le serveur sur localhost:3000
----
+```bash
+npm install            # Installe les dépendances (express, better-sqlite3, etc.)
+node import.js         # Remplit la base de données avec les données JSON
+node index.js          # Démarre le serveur sur http://localhost:3000
+```
+
 
  Routes principales
 
