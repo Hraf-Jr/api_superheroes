@@ -18,11 +18,12 @@ Ce projet est une API Node.js qui permet de manipuler une collection de super-h�
 
 api_superheros/
 ├── database.js # Définition et connexion SQLite
-├── import.js # Import initial JSON -> SQLite
+├── import.js # Import initial JSON → SQLite
 ├── index.js # Fichier principal contenant les routes
-├── SuperHerosComplet.json # Données brutes au format JSON
+├── SuperHerosComplet.json# Données brutes au format JSON
 ├── superheros.db # Base de données générée automatiquement
 ├── package.json # Dépendances du projet
+├── package-lock.json
 └── README.md # Présentation du projet
 ---
 
