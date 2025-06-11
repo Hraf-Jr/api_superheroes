@@ -14,7 +14,8 @@ Ce projet est une API Node.js qui permet de manipuler une collection de super-h�
 - curl (pour les tests)
 
 ---
-##Structure du projet
+
+## Structure du projet
 
 api_superheros/
 ├── database.js           # Définition et connexion SQLite
